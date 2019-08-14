@@ -1,0 +1,4 @@
+Привіт, за допомогою бота ви можете відслідкувати зміну оголошень на сайті auto.ria.
+Для цього відправие команду: 
+/link *<посилання на фільтр сайту>.* 
+*Приклад: "/link https://auto.ria.com/uk/search/?price.currency=1&sort[0].order=dates.created.desc&abroad.not=-1&custom.not=-1&page=0&size=10"*
