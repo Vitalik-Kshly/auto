@@ -6,7 +6,7 @@ future==0.17.1
 idna==2.8
 lxml==4.4.1
 pyTelegramBotAPI==3.6.6
-requests==2.7.0
+requests==2.20.0
 six==1.12.0
 soupsieve==1.9.2
 telebot==0.0.3
